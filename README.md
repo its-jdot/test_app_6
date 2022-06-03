@@ -22,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-* ye to hoga.......
-<!-- hahahaha -->
